@@ -1,0 +1,26 @@
+ul{
+    list-style: nome;
+    background-color: #975ab6;    
+}
+li{
+    display: inline;
+}
+a{
+    padding: 2px 10px;
+    display: inline-block;
+    color: #FFFCB5;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #ff66c4;
+}
+body{
+    background-color: #FFFCB5;
+}
+img{
+    margin-left:0cm;    
+}
+h3{
+    color: #ff66c4;
+}

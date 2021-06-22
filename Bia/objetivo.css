@@ -1,0 +1,30 @@
+body{
+    background-color:#FFBDE6;
+}
+ul{
+    list-style: nome;
+    background-color: #975ab6;    
+}
+li{
+    display: inline;
+}
+a{
+    padding: 2px 10px;
+    display: inline-block;
+    color: #FFFCB5;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #ff66c4;
+}
+P{
+    text-align: center;
+}
+img{
+    margin-left: 400px;
+}
+fieldset{
+    border-color: #975ab6;
+    
+}
